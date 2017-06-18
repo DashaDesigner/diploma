@@ -1,0 +1,56 @@
+C:\Users\Makc\Documents\Visual Studio 2010\Projects\kypc3\OptimalPartitioning\OptimalPartitioning\bin\Debug\OptimalPartitioning.exe
+C:\Users\Makc\Documents\Visual Studio 2010\Projects\kypc3\OptimalPartitioning\OptimalPartitioning\bin\Debug\OptimalPartitioning.pdb
+C:\Users\Makc\Documents\Visual Studio 2010\Projects\kypc3\OptimalPartitioning\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csproj.GenerateResource.Cache
+C:\Users\Makc\Documents\Visual Studio 2010\Projects\kypc3\OptimalPartitioning\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.exe
+C:\Users\Makc\Documents\Visual Studio 2010\Projects\kypc3\OptimalPartitioning\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.pdb
+C:\Users\Makc\Documents\Visual Studio 2010\Projects\kypc3\OptimalPartitioning\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.MainForm.resources
+C:\Users\Makc\Documents\Visual Studio 2010\Projects\kypc3\OptimalPartitioning\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csprojResolveAssemblyReference.cache
+F:\backup\Projects\kypc3\OptimalPartitioning — копия\OptimalPartitioning\bin\Debug\OptimalPartitioning.exe
+F:\backup\Projects\kypc3\OptimalPartitioning — копия\OptimalPartitioning\bin\Debug\OptimalPartitioning.pdb
+F:\backup\Projects\kypc3\OptimalPartitioning — копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.MainForm.resources
+F:\backup\Projects\kypc3\OptimalPartitioning — копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csproj.GenerateResource.Cache
+F:\backup\Projects\kypc3\OptimalPartitioning — копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.exe
+F:\backup\Projects\kypc3\OptimalPartitioning — копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.pdb
+F:\backup\Projects\kypc3\OptimalPartitioning — копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csprojResolveAssemblyReference.cache
+D:\Книги\Прога\Даша\KURSOVAYa\OptimalPartitioning__kopia_zip\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.exe
+D:\Книги\Прога\Даша\KURSOVAYa\OptimalPartitioning__kopia_zip\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.pdb
+D:\Книги\Прога\Даша\KURSOVAYa\OptimalPartitioning__kopia_zip\OptimalPartitioning - копия\OptimalPartitioning\bin\Debug\OptimalPartitioning.exe
+D:\Книги\Прога\Даша\KURSOVAYa\OptimalPartitioning__kopia_zip\OptimalPartitioning - копия\OptimalPartitioning\bin\Debug\OptimalPartitioning.pdb
+D:\Книги\Прога\Даша\KURSOVAYa\OptimalPartitioning__kopia_zip\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csprojResolveAssemblyReference.cache
+D:\Книги\Прога\Даша\KURSOVAYa\OptimalPartitioning__kopia_zip\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.MainForm.resources
+D:\Книги\Прога\Даша\KURSOVAYa\OptimalPartitioning__kopia_zip\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csproj.GenerateResource.Cache
+D:\Книги\Прога\Даша\KURSOVAYa\OptimalPartitioning__kopia_zip\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.Ogranicheniya.resources
+D:\КУРСОВАЯ\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.exe
+D:\КУРСОВАЯ\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.pdb
+D:\КУРСОВАЯ\OptimalPartitioning - копия\OptimalPartitioning\bin\Debug\OptimalPartitioning.exe
+D:\КУРСОВАЯ\OptimalPartitioning - копия\OptimalPartitioning\bin\Debug\OptimalPartitioning.pdb
+D:\КУРСОВАЯ\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csprojResolveAssemblyReference.cache
+D:\КУРСОВАЯ\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.MainForm.resources
+D:\КУРСОВАЯ\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.Ogranicheniya.resources
+D:\КУРСОВАЯ\OptimalPartitioning - копия\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csproj.GenerateResource.Cache
+D:\КУРСОВАЯ\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.exe
+D:\КУРСОВАЯ\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.pdb
+D:\КУРСОВАЯ\Курсовая работа_Чалая Д.А,\OptimalPartitioning\bin\Debug\OptimalPartitioning.exe
+D:\КУРСОВАЯ\Курсовая работа_Чалая Д.А,\OptimalPartitioning\bin\Debug\OptimalPartitioning.pdb
+D:\КУРСОВАЯ\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csprojResolveAssemblyReference.cache
+D:\КУРСОВАЯ\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.MainForm.resources
+D:\КУРСОВАЯ\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.Ogranicheniya.resources
+D:\КУРСОВАЯ\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csproj.GenerateResource.Cache
+D:\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.exe
+D:\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.pdb
+D:\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\bin\Debug\OptimalPartitioning.exe
+D:\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\bin\Debug\OptimalPartitioning.pdb
+D:\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csprojResolveAssemblyReference.cache
+D:\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.MainForm.resources
+D:\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.Ogranicheniya.resources
+D:\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csproj.GenerateResource.Cache
+D:\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.exe
+D:\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.pdb
+D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\bin\Debug\OptimalPartitioning.exe
+D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\bin\Debug\OptimalPartitioning.pdb
+D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csprojResolveAssemblyReference.cache
+D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.MainForm.resources
+D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.Ogranicheniya.resources
+D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csproj.GenerateResource.Cache
+D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.exe
+D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.pdb
