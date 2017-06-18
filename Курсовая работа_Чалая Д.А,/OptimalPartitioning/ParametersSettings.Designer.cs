@@ -41,7 +41,7 @@
             // RoParent
             // 
             this.RoParent.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.RoParent.Location = new System.Drawing.Point(931, 41);
+            this.RoParent.Location = new System.Drawing.Point(778, 41);
             this.RoParent.Name = "RoParent";
             this.RoParent.Size = new System.Drawing.Size(931, 70);
             this.RoParent.TabIndex = 0;
@@ -49,7 +49,7 @@
             // DParent
             // 
             this.DParent.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.DParent.Location = new System.Drawing.Point(931, 175);
+            this.DParent.Location = new System.Drawing.Point(778, 175);
             this.DParent.Name = "DParent";
             this.DParent.Size = new System.Drawing.Size(931, 420);
             this.DParent.TabIndex = 1;
@@ -65,7 +65,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(926, 9);
+            this.label1.Location = new System.Drawing.Point(773, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(105, 25);
             this.label1.TabIndex = 2;
@@ -74,7 +74,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(926, 147);
+            this.label2.Location = new System.Drawing.Point(773, 147);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(383, 25);
             this.label2.TabIndex = 3;
@@ -92,7 +92,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(467, 147);
+            this.label4.Location = new System.Drawing.Point(395, 147);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(314, 25);
             this.label4.TabIndex = 6;
@@ -101,7 +101,7 @@
             // BParent
             // 
             this.BParent.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.BParent.Location = new System.Drawing.Point(472, 175);
+            this.BParent.Location = new System.Drawing.Point(400, 175);
             this.BParent.Name = "BParent";
             this.BParent.Size = new System.Drawing.Size(300, 420);
             this.BParent.TabIndex = 5;

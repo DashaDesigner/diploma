@@ -54,3 +54,12 @@ D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\
 D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csproj.GenerateResource.Cache
 D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.exe
 D:\Dasha files\Univer\3 КУРС\6 СЕМЕСТР\КУРСОВАЯ\ГОТОВО\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.pdb
+\\Mac\Home\Documents\Univer\Диплом\ДИПЛОМНА РОБОТА\diploma\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.exe
+\\Mac\Home\Documents\Univer\Диплом\ДИПЛОМНА РОБОТА\diploma\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.pdb
+\\Mac\Home\Documents\Univer\Диплом\ДИПЛОМНА РОБОТА\diploma\Курсовая работа_Чалая Д.А,\OptimalPartitioning\bin\Debug\OptimalPartitioning.exe
+\\Mac\Home\Documents\Univer\Диплом\ДИПЛОМНА РОБОТА\diploma\Курсовая работа_Чалая Д.А,\OptimalPartitioning\bin\Debug\OptimalPartitioning.pdb
+\\Mac\Home\Documents\Univer\Диплом\ДИПЛОМНА РОБОТА\diploma\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Univer\Диплом\ДИПЛОМНА РОБОТА\diploma\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.MainForm.resources
+\\Mac\Home\Documents\Univer\Диплом\ДИПЛОМНА РОБОТА\diploma\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.Ogranicheniya.resources
+\\Mac\Home\Documents\Univer\Диплом\ДИПЛОМНА РОБОТА\diploma\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.ParametersSettings.resources
+\\Mac\Home\Documents\Univer\Диплом\ДИПЛОМНА РОБОТА\diploma\Курсовая работа_Чалая Д.А,\OptimalPartitioning\obj\x86\Debug\OptimalPartitioning.csproj.GenerateResource.Cache
